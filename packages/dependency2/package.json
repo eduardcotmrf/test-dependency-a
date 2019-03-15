@@ -1,6 +1,6 @@
 {
-  "name": "dependency2",
-  "version": "1.0.0",
+  "name": "@test-dependency/dependency2",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
