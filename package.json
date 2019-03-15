@@ -14,5 +14,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/eduardcotmrf/test-dependency-a"
+  },
+  "dependencies": {
+    "test-dependency-b": "^1.0.1"
   }
 }
